@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/108327817/photo/lake-plansee-tirol-austria.webp?b=1&s=170667a&w=0&k=20&c=fKMaseBXBSizB5oMWocsENqpWT8Tg_UxiaMFo1qRlYk=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.course{
+height: 80vh;
+
+}
+.course .heading{
+    text-align: center;
+}
+.course .cont{
+    height: auto;
+    width: 25%;
+    box-shadow: 0 0 10px black;
+    float: left;
+    margin-left:5%;
+    margin-top: 45px;
+    border-radius: 5px;
+    text-align: justify;
+    padding: 10px;
+    background-color: #1b1a5099;
+    color: #ede0e0;
+
+}
+.cont:hover{
+    transform: scale(1.05);
+    transition: background-color 0.5s, box-shadow 0.5s, transform 0.5s;
+}
+.course .cont h1{
+    text-align: center;
+}
+.course .container1 .img-1{
+    margin: 1px;
+    border-radius: 5px;
+    height: 250px;
+}
+.course .container2 .img-1{
+    margin: 1px;
+    border-radius: 5px;
+    height: 250px;
+}
+.course .container3 .img-1{
+    margin: 1px;
+    border-radius: 5px;
+    height: 250px;
+}

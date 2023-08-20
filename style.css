@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1465049198/photo/colorful-himalayan-mountain.jpg?s=612x612&w=0&k=20&c=h9zU27aByCTokI5Tqx0WHKNAh9ee_82aj9Hbj-0RLSE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.navbar{
+    overflow: hidden;
+    border-radius: 5px;
+    position: sticky;
+    font-size: 20px;
+    
+}
+.navbar div{
+    padding: 14px 16px;
+}
+.navbar .icon a{
+    text-decoration: none;
+    color: #fff;
+    padding: 14px 16px;
+}
+.navbar .nav-item a{
+    text-decoration: none;
+    color: #000;
+    padding: 14px 16px;
+}
+
+.navbar i{
+    
+    font-size: 20px;
+    
+}
+.navbar .icon i:hover{
+    color: #fff;
+}
+
+.navbar .nav-item a:hover{
+    color: #fff;
+}
+
+.icon{
+    float: left;
+}
+.nav-item{
+    float: right;
+}
+.blog{
+    text-align: center;
+}
+.blog .blog-head{
+    color: rgb(31, 138, 102);
+    font-size: 40px;
+}
+.blog p{
+    color: rgb(31, 138, 102);
+}
